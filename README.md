@@ -31,15 +31,15 @@ The dataset includes various attributes such as:
 ### Visualizations
 1. **Trend of US Aviation Accidents Over the Years**: This line plot visualizes the number of aviation accidents in the United States from 1982 onwards, highlighting the trend over time.
    
-   <img src="C:\Users\USER\Pictures\Screenshots\Fatality rate over the Years.png">
+   ![Aviation Accidents over Years](C:\Users\USER\Pictures\Screenshots\Fatality rate over the Years.png)
 
 2. **Top 10 Airplane make damage vs Fatality rate**: A bar graph showing the companies in the United States with the highest and least number of aircraft accidents, providing insight into safer operators.
 
-   <img src="C:\Users\USER\Pictures\Screenshots\Top 10 Airplane make damage vs Fatality rate.png">
-
+   ![Companies make vs Fatality Rate](C:\Users\USER\Pictures\Screenshots\Top 10 Airplane make damage vs Fatality rate.png)
+   
 3. **Relationship Between Fatality vs make for the last 10 years**: A combined line graph illustrating the correlation between various airplane makes and the number of fatalities, emphasizing the impact of make on aviation safety.
 
-   <img scr="C:\Users\USER\Pictures\Screenshots\Fatality vs make for the last 10 years.png">
+   ![Companies make vs Fatality Rate](C:\Users\USER\Pictures\Screenshots\Fatality vs make for the last 10 years.png)
    
 Here's a link to my full Interactive Dashboard: https://shorturl.at/MhvRQ
 
